@@ -1,1 +1,2 @@
 # odin-recipes
+My current project is building a webpage for a recipe of my choosing. I must demonstrate all the HTML skills I've learned so far. I must follow the HTML format, use paragraphs, headings, bold and italic texts, add links and images and structuring files.
